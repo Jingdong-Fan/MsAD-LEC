@@ -1,7 +1,7 @@
 ## Running code
 main.py
 
-##Document introduction
+## Document introduction
 1. community/community_louvain: louvain algorithm file
 
 2. diffuse/diffuse.py: diffusion model file
@@ -9,15 +9,15 @@ main.py
 3. diffuse/nn.py: model architecture file
 
 ## Datasets
-###1. Simulation dataset  
+### 1. Simulation dataset  
 
 simsTxt/50nodes.txt
 
-###2. Synthetic dataset
+### 2. Synthetic dataset
 
 simsTxt/XXnodes.csv
 
-###3. Ground truth files
+### 3. Ground truth files
 
 simsTxt/stand_XXnodes.txt
 
