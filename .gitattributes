@@ -1,6 +1,0 @@
-diffuse filter=lfs diff=lfs merge=lfs -text
-main.py filter=lfs diff=lfs merge=lfs -text
-requirements.txt filter=lfs diff=lfs merge=lfs -text
-simsTxt filter=lfs diff=lfs merge=lfs -text
-README.md filter=lfs diff=lfs merge=lfs -text
-community filter=lfs diff=lfs merge=lfs -text
