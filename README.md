@@ -9,6 +9,10 @@ main.py
 3. diffuse/nn.py: model architecture file
 
 ## Datasets
+
+Link: https://pan.baidu.com/s/1sjgyASM8JxqksjQjsmUwSw 
+Extraction: 6666
+
 ### 1. Simulation dataset  
 
 simsTxt/50nodes.txt
